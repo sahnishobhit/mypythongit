@@ -1,5 +1,2 @@
-print ("base code")
-
-
-
-print ("hi hi hi")
+print ("good good good")
+print ("okokok")
